@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/Module33/Notes/Note5/cmake-build-debug/CMakeFiles/Note5.dir
+C:/Users/User/Desktop/Module33/Notes/Note5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Module33/Notes/Note5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

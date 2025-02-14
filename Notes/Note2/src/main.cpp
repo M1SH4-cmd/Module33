@@ -1,5 +1,5 @@
 #include <iostream>
-#include <exeption>
+#include <exception>
 
 
 class DivisionByZeroException : public std::exception
